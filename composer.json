@@ -13,7 +13,9 @@
         "fideloper/proxy": "^4.0",
         "laravel/framework": "^6.0",
         "laravel/tinker": "^1.0",
-        "mannysoft/api-auth": "dev-master"
+        "mannysoft/api-auth": "dev-master",
+        "spatie/laravel-permission": "^3.0",
+        "spatie/laravel-query-builder": "^2.1"
     },
     "require-dev": {
         "facade/ignition": "^1.4",
